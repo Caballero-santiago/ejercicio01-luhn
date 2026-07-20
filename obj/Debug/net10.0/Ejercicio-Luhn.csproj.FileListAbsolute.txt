@@ -1,0 +1,14 @@
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\bin\Debug\net10.0\Ejercicio-Luhn.exe
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\bin\Debug\net10.0\Ejercicio-Luhn.deps.json
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\bin\Debug\net10.0\Ejercicio-Luhn.runtimeconfig.json
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\bin\Debug\net10.0\Ejercicio-Luhn.dll
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\bin\Debug\net10.0\Ejercicio-Luhn.pdb
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.AssemblyInfoInputs.cache
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.AssemblyInfo.cs
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.csproj.CoreCompileInputs.cache
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.dll
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\refint\Ejercicio-Luhn.dll
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.pdb
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\Ejercicio-Luhn.genruntimeconfig.cache
+C:\Users\damse\Documents\Caballero-Santiago\Ejercicio-Luhn\obj\Debug\net10.0\ref\Ejercicio-Luhn.dll
